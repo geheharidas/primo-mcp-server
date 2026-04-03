@@ -1,0 +1,1197 @@
+{
+  "beaconO22": "363",
+  "info": {
+    "totalResultsLocal": 0,
+    "totalResultsPC": 127421,
+    "total": 127421,
+    "first": 1,
+    "last": 3
+  },
+  "highlights": {
+    "snippet": [
+      "entrepreneurship",
+      "innovation"
+    ],
+    "title": [
+      "entrepreneurship",
+      "innovation",
+      "entrepreneurship innovation",
+      "Entrepreneurship"
+    ],
+    "termsUnion": [
+      "entrepreneurship",
+      "innovation",
+      "entrepreneurship innovation",
+      "Entrepreneurship"
+    ]
+  },
+  "docs": [
+    {
+      "pnx": {
+        "links": {
+          "openurlfulltext": [
+            "$$Topenurlfull_article"
+          ],
+          "openurl": [
+            "$$Topenurl_article"
+          ],
+          "backlink": [
+            "$$Uhttps://urn.kb.se/resolve?urn=urn:nbn:se:hj:diva-47205$$DView record from Swedish Publication Index (HÃ¶gskolan i JÃ¶nkÃ¶ping)$$Hfree_for_read$Pomit_proxy_false"
+          ],
+          "thumbnail": [
+            "$$Tsyndetics_thumb_exl"
+          ]
+        },
+        "search": {
+          "rsrctype": [
+            "article"
+          ],
+          "description": [
+            "Digitization is arguably currently the single most important force in entrepreneurship and innovation. In this special issue editorial, we shed light on the current state of digital entrepreneurship and digital innovation research to take stock of past research and identify opportunities for the future. The 11 papers in this special issue present a decisive step in extending the current research by either exploring the context of digital entrepreneurship and digital innovation, by operationalizing digital technologies as moderators or mediators, or by modeling the particularities of the role of digital technologies as independent or dependent variables. This editorial suggests paths for future research and specifically calls for more joint consideration of digital entrepreneurship and digital innovation along with specific theory building and testing that incorporates the specificities of digitization. An important aspect in that process is extending the understanding of the dark side of digitization."
+          ],
+          "creationdate": [
+            "2021"
+          ],
+          "creatorcontrib": [
+            "Berger, Elisabeth S.C.",
+            "von Briel, Frederik",
+            "Davidsson, Per",
+            "Kuckertz, Andreas"
+          ],
+          "orcidid": [
+            "https://orcid.org/0000-0002-6363-1382"
+          ],
+          "creator": [
+            "Berger, Elisabeth S.C.",
+            "von Briel, Frederik",
+            "Davidsson, Per",
+            "Kuckertz, Andreas"
+          ],
+          "title": [
+            "Digital or not â€“ The future of entrepreneurship and innovation: Introduction to the special issue",
+            "Journal of business research"
+          ],
+          "subject": [
+            "Digital Technology",
+            "Digitization",
+            "Entrepreneurship"
+          ],
+          "issn": [
+            "0148-2963",
+            "1873-7978",
+            "1873-7978"
+          ],
+          "fulltext": [
+            "true"
+          ],
+          "general": [
+            "Elsevier Inc",
+            "Elsevier B.V"
+          ],
+          "startdate": [
+            "20210301"
+          ],
+          "enddate": [
+            "20210301"
+          ],
+          "recordtype": [
+            "article"
+          ],
+          "recordid": [
+            "eNotkcuKFDEUhoMo2I4-gpCVG6nyJKmupNxIMxcdGHAzzjbkcqo7RZsUSWrUne8wb-iTWE3P6nDg-38O5yPkPYOWAes_Te1kl5KxtBzY0DLeAocXZMOUFI0cpHpJNsA61fChF6_Jm1ImgBUBtSHuKuxDNUeaMo2p0n9_n-j9Aem41CUjTSPFWDPOGSMuuRzCTE30NMSYHk0NKX6mtyuQ_OJOG62J1jVeZnRhbQ2lLPiWvBrNseC753lBftxc319-a-6-f7293N01yDuojcVR2N73o7dWmdGCRyG7njk-SBgdVyDHLe955xhHK5TsvPG8Ez1sQQiw4oJ8PPeWXzgvVs85_DT5j04m6KvwsNMp7_Vh0p3ksF3pD2d6b46oQ3QpVvxd92YpRetd3w1cDXJQK_jlDOJ6-2PArIsLGB36kNFV7VPQDPRJhZ70swp9UqEZ1-ufxX8te4Ic"
+          ],
+          "scope": [
+            "ADTPV",
+            "AOWAS",
+            "BTSUP",
+            "D8X"
+          ]
+        },
+        "delivery": {
+          "fulltext": [
+            "fulltext"
+          ],
+          "delcategory": [
+            "Remote Search Resource"
+          ]
+        },
+        "display": {
+          "description": [
+            "Digitization is arguably currently the single most important force in entrepreneurship and innovation. In this special issue editorial, we shed light on the current state of digital entrepreneurship and digital innovation research to take stock of past research and identify opportunities for the future. The 11 papers in this special issue present a decisive step in extending the current research by either exploring the context of digital entrepreneurship and digital innovation, by operationalizing digital technologies as moderators or mediators, or by modeling the particularities of the role of digital technologies as independent or dependent variables. This editorial suggests paths for future research and specifically calls for more joint consideration of digital entrepreneurship and digital innovation along with specific theory building and testing that incorporates the specificities of digitization. An important aspect in that process is extending the understanding of the dark side of digitization."
+          ],
+          "language": [
+            "eng"
+          ],
+          "creator": [
+            "Berger, Elisabeth S.C. ; von Briel, Frederik ; Davidsson, Per ; Kuckertz, Andreas"
+          ],
+          "title": [
+            "Digital or not â€“ The future of entrepreneurship and innovation: Introduction to the special issue"
+          ],
+          "type": [
+            "article"
+          ],
+          "source": [
+            "Elsevier SD Complete Freedom Collection [SCCMFC]"
+          ],
+          "publisher": [
+            "Elsevier Inc"
+          ],
+          "ispartof": [
+            "Journal of business research, 2021-03, Vol.125, p.436-442"
+          ],
+          "identifier": [
+            "ISSN: 0148-2963",
+            "ISSN: 1873-7978",
+            "EISSN: 1873-7978",
+            "DOI: 10.1016/j.jbusres.2019.12.020"
+          ],
+          "rights": [
+            "2019 Elsevier Inc."
+          ],
+          "snippet": [
+            "Digitization is arguably currently the single most important force in entrepreneurship and innovation..."
+          ],
+          "lds50": [
+            "peer_reviewed"
+          ],
+          "subject": [
+            "Digital Technology ;  Digitization ;  Entrepreneurship"
+          ],
+          "keyword": [
+            "Analysis ;  Digital entrepreneurship ;  Digital innovation ;  Transformation"
+          ]
+        },
+        "addata": {
+          "format": [
+            "journal"
+          ],
+          "pub": [
+            "Elsevier Inc"
+          ],
+          "jtitle": [
+            "Journal of business research"
+          ],
+          "genre": [
+            "article"
+          ],
+          "orcidid": [
+            "https://orcid.org/0000-0002-6363-1382"
+          ],
+          "issn": [
+            "0148-2963",
+            "1873-7978"
+          ],
+          "abstract": [
+            "Digitization is arguably currently the single most important force in entrepreneurship and innovation. In this special issue editorial, we shed light on the current state of digital entrepreneurship and digital innovation research to take stock of past research and identify opportunities for the future. The 11 papers in this special issue present a decisive step in extending the current research by either exploring the context of digital entrepreneurship and digital innovation, by operationalizing digital technologies as moderators or mediators, or by modeling the particularities of the role of digital technologies as independent or dependent variables. This editorial suggests paths for future research and specifically calls for more joint consideration of digital entrepreneurship and digital innovation along with specific theory building and testing that incorporates the specificities of digitization. An important aspect in that process is extending the understanding of the dark side of digitization."
+          ],
+          "au": [
+            "Berger, Elisabeth S.C.",
+            "von Briel, Frederik",
+            "Davidsson, Per",
+            "Kuckertz, Andreas"
+          ],
+          "atitle": [
+            "Digital or not â€“ The future of entrepreneurship and innovation: Introduction to the special issue"
+          ],
+          "date": [
+            "2021-03-01"
+          ],
+          "risdate": [
+            "2021"
+          ],
+          "volume": [
+            "125"
+          ],
+          "spage": [
+            "436"
+          ],
+          "epage": [
+            "442"
+          ],
+          "pages": [
+            "436-442"
+          ],
+          "eissn": [
+            "1873-7978"
+          ],
+          "ristype": [
+            "JOUR"
+          ],
+          "doi": [
+            "10.1016/j.jbusres.2019.12.020"
+          ],
+          "tpages": [
+            "7"
+          ]
+        },
+        "facets": {
+          "rsrctype": [
+            "articles"
+          ],
+          "language": [
+            "eng"
+          ],
+          "creationdate": [
+            "2021"
+          ],
+          "creatorcontrib": [
+            "Berger, Elisabeth S.C.",
+            "von Briel, Frederik",
+            "Davidsson, Per",
+            "Kuckertz, Andreas"
+          ],
+          "topic": [
+            "Digital Technology",
+            "Digitization",
+            "Entrepreneurship"
+          ],
+          "prefilter": [
+            "articles"
+          ],
+          "collection": [
+            "SwePub",
+            "SwePub Articles",
+            "SwePub Editorial",
+            "SWEPUB HÃ¶gskolan i JÃ¶nkÃ¶ping"
+          ],
+          "toplevel": [
+            "peer_reviewed",
+            "online_resources"
+          ],
+          "frbrgroupid": [
+            "cdi_FETCH-LOGICAL-e240t-bef3b6d6fdbb8afb0de37461c2970fc2807f52624c12eb3874dad2436050330b3"
+          ],
+          "frbrtype": [
+            "5"
+          ],
+          "jtitle": [
+            "Journal of business research"
+          ]
+        },
+        "sort": {
+          "creationdate": [
+            "20210301"
+          ],
+          "title": [
+            "Digital or not â€“ The future of entrepreneurship and innovation: Introduction to the special issue"
+          ],
+          "author": [
+            "Berger, Elisabeth S.C. ; von Briel, Frederik ; Davidsson, Per ; Kuckertz, Andreas"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "A649289798"
+          ],
+          "originalsourceid": [
+            "FETCH-LOGICAL-e240t-bef3b6d6fdbb8afb0de37461c2970fc2807f52624c12eb3874dad2436050330b3"
+          ],
+          "sourcetype": [
+            "Open Access Repository"
+          ],
+          "sourceformat": [
+            "XML"
+          ],
+          "sourcesystem": [
+            "Other"
+          ],
+          "galeid": [
+            "A649289798"
+          ],
+          "iscdi": [
+            "true"
+          ],
+          "elsid": [
+            "S0148296319307866"
+          ],
+          "recordtype": [
+            "article"
+          ],
+          "sourceid": [
+            "gale_elsev"
+          ],
+          "recordid": [
+            "cdi_gale_incontextgauss__A649289798"
+          ],
+          "addsrcrecordid": [
+            "eNotkcuKFDEUhoMo2I4-gpCVG6nyJKmupNxIMxcdGHAzzjbkcqo7RZsUSWrUne8wb-iTWE3P6nDg-38O5yPkPYOWAes_Te1kl5KxtBzY0DLeAocXZMOUFI0cpHpJNsA61fChF6_Jm1ImgBUBtSHuKuxDNUeaMo2p0n9_n-j9Aem41CUjTSPFWDPOGSMuuRzCTE30NMSYHk0NKX6mtyuQ_OJOG62J1jVeZnRhbQ2lLPiWvBrNseC753lBftxc319-a-6-f7293N01yDuojcVR2N73o7dWmdGCRyG7njk-SBgdVyDHLe955xhHK5TsvPG8Ez1sQQiw4oJ8PPeWXzgvVs85_DT5j04m6KvwsNMp7_Vh0p3ksF3pD2d6b46oQ3QpVvxd92YpRetd3w1cDXJQK_jlDOJ6-2PArIsLGB36kNFV7VPQDPRJhZ70swp9UqEZ1-ufxX8te4Ic"
+          ],
+          "score": [
+            0.05600000000000001
+          ]
+        }
+      },
+      "delivery": {
+        "link": [],
+        "deliveryCategory": [
+          "Remote Search Resource"
+        ],
+        "availability": [
+          "fulltext"
+        ],
+        "displayLocation": false,
+        "additionalLocations": false,
+        "physicalItemTextCodes": "",
+        "feDisplayOtherLocations": false,
+        "displayedAvailability": "true",
+        "holding": [],
+        "almaOpenurl": "https://ap02.alma.exlibrisgroup.com/view/uresolver/61UWA_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2026-04-03 20:15:08&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-gale_elsev&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Digital+or+not+%E2%80%93+The+future+of+entrepreneurship+and+innovation%3A+Introduction+to+the+special+issue&rft.jtitle=Journal+of+business+research&rft.au=Berger%2C+Elisabeth+S.C.&rft.date=2021-03-01&rft.volume=125&rft.spage=436&rft.epage=442&rft.pages=436-442&rft.issn=0148-2963&rft.eissn=1873-7978&rft_id=info:doi/10.1016%2Fj.jbusres.2019.12.020&rft.pub=Elsevier+Inc&rft_dat=<gale_elsev>A649289798</gale_elsev>&svc_dat=viewit&rft_galeid=A649289798"
+      },
+      "context": "PC",
+      "adaptor": "Primo Central",
+      "extras": {
+        "citationTrails": {
+          "citing": [],
+          "citedby": []
+        },
+        "timesCited": {}
+      },
+      "@id": "https://ap02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_gale_incontextgauss__A649289798"
+    },
+    {
+      "pnx": {
+        "links": {
+          "openurlfulltext": [
+            "$$Topenurlfull_article"
+          ],
+          "openurl": [
+            "$$Topenurl_article"
+          ],
+          "thumbnail": [
+            "$$Tsyndetics_thumb_exl"
+          ],
+          "linktopdf": [
+            "$$Uhttps://www.proquest.com/docview/1668323162/fulltextPDF?pq-origsite=primo&accountid=14681$$EPDF$$P50$$Gproquest$$H$Pomit_proxy_true"
+          ],
+          "linktohtml": [
+            "$$Uhttps://www.proquest.com/docview/1668323162?pq-origsite=primo&accountid=14681$$EHTML$$P50$$Gproquest$$H$Pomit_proxy_true"
+          ],
+          "docinsights": [
+            "$$Uhttps://go.openathens.net/redirector/uwa.edu.au?url=https%3A%2F%2Fwww.proquest.com%2Fdocview%2F1668323162%2FfulltextPDF%3Fpq-origsite%3Dprimo%26accountid%3D14681%26RAO%3Dtrue$$EPDF$$P50$$Gproquest$$H$Pomit_proxy_true"
+          ]
+        },
+        "search": {
+          "rsrctype": [
+            "article"
+          ],
+          "description": [
+            "Despite the growing acknowledgement that entrepreneurship is an important driver of regional innovation and growth, the role of the networks in these processes has been less formally examined. In order to address this gap, this paper proposes that the relationship between entrepreneurship, innovation and regional growth is governed by a series of network dynamics. Drawing upon aspects of endogenous growth theory and the knowledge spillover theory of entrepreneurship, it is proposed that the nature of the networks formed by entrepreneurial firms is a key determinant of regional growth differentials. In particular, network capital, in the form of investments in strategic relations to gain access to knowledge, is considered to mediate the relationship between entrepreneurship and innovation-based regional growth. It is suggested that network dynamics should be further incorporated into theories concerning the link between knowledge spillovers, entrepreneurship and regional growth. The paper concludes with a series of theoretical, entrepreneurial and policy implications emerging from the study."
+          ],
+          "creationdate": [
+            "2015"
+          ],
+          "creatorcontrib": [
+            "Huggins, Robert",
+            "Thompson, Piers"
+          ],
+          "orcidid": [
+            "https://orcid.org/0000-0003-1961-7441"
+          ],
+          "creator": [
+            "Huggins, Robert",
+            "Thompson, Piers"
+          ],
+          "title": [
+            "Entrepreneurship, innovation and regional growth: a network theory",
+            "Small business economics"
+          ],
+          "subject": [
+            "Businesspeople",
+            "Capital",
+            "Economic development",
+            "Entrepreneurship",
+            "Industrial organization",
+            "Investments",
+            "Knowledge management",
+            "Management",
+            "Management science",
+            "Microeconomics",
+            "Regions",
+            "Small business"
+          ],
+          "issn": [
+            "0921-898X",
+            "1573-0913"
+          ],
+          "fulltext": [
+            "true"
+          ],
+          "addtitle": [
+            "Small Bus Econ"
+          ],
+          "general": [
+            "Springer",
+            "Springer US",
+            "Springer Nature B.V"
+          ],
+          "startdate": [
+            "20150601"
+          ],
+          "enddate": [
+            "20150601"
+          ],
+          "recordtype": [
+            "article"
+          ],
+          "sourceid": [
+            "7WY",
+            "BENPR",
+            "M0C"
+          ],
+          "recordid": [
+            "eNp9kMtKAzEUhoMoWKsP4EIYcOPC0Zwkk4s7FW9QcKPgLqRpbKdOk5qkFt_eGUdEXHR1zuL7zuVH6BDwGWAszhMASFFiqErFGS3pFhpAJWiJFdBtNMCKQCmVfNlFeynNMe4sPEBXNz5Ht4zOu1VMs3p5WtTehw-T6-AL4ydFdNO2NU0xjWGdZxeFKbzL6xDfijxzIX7uo51X0yR38FOH6Pn25un6vhw93j1cX45KW-Eql0YIw4lkZCzHYycqBoYyTLiyVjGjGLYKBDWKMMkmhlPLrAEFiig1sYpaOkQn_dxlDO8rl7Je1Mm6pjHehVXSwAXHkleCtOjxP3QeVrF9oqO4pIQC7yjRUzaGlKJ71bbO34_naOpGA9ZdSrrPVrfZ6i5bTVsT_pnLWC9M_NzokN5JLeunLv65aYN01EvzlEP83cJoVVEsMf0CedCUIw"
+          ],
+          "scope": [
+            "AAYXX",
+            "CITATION",
+            "3V.",
+            "7WY",
+            "7WZ",
+            "7X5",
+            "7XB",
+            "87Z",
+            "8A3",
+            "8AO",
+            "8BJ",
+            "8FK",
+            "8FL",
+            "ABUWG",
+            "AFKRA",
+            "BENPR",
+            "BEZIV",
+            "CCPQU",
+            "DWQXO",
+            "FQK",
+            "FRNLG",
+            "F~G",
+            "JBE",
+            "K60",
+            "K6~",
+            "L.-",
+            "L.0",
+            "M0C",
+            "PHGZM",
+            "PHGZT",
+            "PKEHL",
+            "PQBIZ",
+            "PQBZA",
+            "PQEST",
+            "PQQKQ",
+            "PQUKI",
+            "Q9U"
+          ]
+        },
+        "delivery": {
+          "fulltext": [
+            "fulltext"
+          ],
+          "delcategory": [
+            "Remote Search Resource"
+          ]
+        },
+        "display": {
+          "description": [
+            "Despite the growing acknowledgement that entrepreneurship is an important driver of regional innovation and growth, the role of the networks in these processes has been less formally examined. In order to address this gap, this paper proposes that the relationship between entrepreneurship, innovation and regional growth is governed by a series of network dynamics. Drawing upon aspects of endogenous growth theory and the knowledge spillover theory of entrepreneurship, it is proposed that the nature of the networks formed by entrepreneurial firms is a key determinant of regional growth differentials. In particular, network capital, in the form of investments in strategic relations to gain access to knowledge, is considered to mediate the relationship between entrepreneurship and innovation-based regional growth. It is suggested that network dynamics should be further incorporated into theories concerning the link between knowledge spillovers, entrepreneurship and regional growth. The paper concludes with a series of theoretical, entrepreneurial and policy implications emerging from the study."
+          ],
+          "language": [
+            "eng"
+          ],
+          "creator": [
+            "Huggins, Robert ; Thompson, Piers"
+          ],
+          "title": [
+            "Entrepreneurship, innovation and regional growth: a network theory"
+          ],
+          "type": [
+            "article"
+          ],
+          "source": [
+            "ABI/INFORM Collection",
+            "ABI/INFORM Global",
+            "Springer Nature Link",
+            "EBSCOhost Business Source Ultimate",
+            "Access articles in the EconLit collection",
+            "JSTOR Arts and Sciences X",
+            "ProQuest Central"
+          ],
+          "publisher": [
+            "Boston: Springer"
+          ],
+          "ispartof": [
+            "Small business economics, 2015-06, Vol.45 (1), p.103-128"
+          ],
+          "identifier": [
+            "ISSN: 0921-898X",
+            "EISSN: 1573-0913",
+            "DOI: 10.1007/s11187-015-9643-3"
+          ],
+          "rights": [
+            "Springer Science+Business Media 2015",
+            "Springer Science+Business Media New York 2015"
+          ],
+          "snippet": [
+            "Despite the growing acknowledgement that entrepreneurship is an important driver of regional innovation and growth, the role of the networks in these processes has been less formally examined..."
+          ],
+          "lds50": [
+            "peer_reviewed"
+          ],
+          "subject": [
+            "Businesspeople ;  Capital ;  Economic development ;  Entrepreneurship ;  Industrial organization ;  Investments ;  Knowledge management ;  Management ;  Management science ;  Microeconomics ;  Regions ;  Small business"
+          ],
+          "keyword": [
+            "Article ;  Business and Management ;  Endogenous ;  Innovation ;  Innovations ;  Knowledge ;  Networks ;  Spillovers ;  Studies ;  Theory"
+          ]
+        },
+        "addata": {
+          "format": [
+            "journal"
+          ],
+          "pub": [
+            "Springer"
+          ],
+          "jtitle": [
+            "Small business economics"
+          ],
+          "genre": [
+            "article"
+          ],
+          "orcidid": [
+            "https://orcid.org/0000-0003-1961-7441"
+          ],
+          "issn": [
+            "0921-898X"
+          ],
+          "abstract": [
+            "Despite the growing acknowledgement that entrepreneurship is an important driver of regional innovation and growth, the role of the networks in these processes has been less formally examined. In order to address this gap, this paper proposes that the relationship between entrepreneurship, innovation and regional growth is governed by a series of network dynamics. Drawing upon aspects of endogenous growth theory and the knowledge spillover theory of entrepreneurship, it is proposed that the nature of the networks formed by entrepreneurial firms is a key determinant of regional growth differentials. In particular, network capital, in the form of investments in strategic relations to gain access to knowledge, is considered to mediate the relationship between entrepreneurship and innovation-based regional growth. It is suggested that network dynamics should be further incorporated into theories concerning the link between knowledge spillovers, entrepreneurship and regional growth. The paper concludes with a series of theoretical, entrepreneurial and policy implications emerging from the study."
+          ],
+          "au": [
+            "Huggins, Robert",
+            "Thompson, Piers"
+          ],
+          "atitle": [
+            "Entrepreneurship, innovation and regional growth: a network theory"
+          ],
+          "stitle": [
+            "Small Bus Econ"
+          ],
+          "date": [
+            "2015-06-01"
+          ],
+          "risdate": [
+            "2015"
+          ],
+          "volume": [
+            "45"
+          ],
+          "issue": [
+            "1"
+          ],
+          "spage": [
+            "103"
+          ],
+          "epage": [
+            "128"
+          ],
+          "pages": [
+            "103-128"
+          ],
+          "eissn": [
+            "1573-0913"
+          ],
+          "ristype": [
+            "JOUR"
+          ],
+          "cop": [
+            "Boston"
+          ],
+          "doi": [
+            "10.1007/s11187-015-9643-3"
+          ],
+          "tpages": [
+            "26"
+          ]
+        },
+        "facets": {
+          "rsrctype": [
+            "articles"
+          ],
+          "language": [
+            "eng"
+          ],
+          "creationdate": [
+            "2015"
+          ],
+          "creatorcontrib": [
+            "Huggins, Robert",
+            "Thompson, Piers"
+          ],
+          "topic": [
+            "Businesspeople",
+            "Capital",
+            "Economic development",
+            "Entrepreneurship",
+            "Industrial organization",
+            "Investments",
+            "Knowledge management",
+            "Management",
+            "Management science",
+            "Microeconomics",
+            "Regions",
+            "Small business"
+          ],
+          "prefilter": [
+            "articles"
+          ],
+          "collection": [
+            "CrossRef",
+            "ProQuest Central (Corporate)",
+            "ABI/INFORM Collection",
+            "ABI/INFORM Global (PDF only)",
+            "Entrepreneurship Database",
+            "ProQuest Central (purchase pre-March 2016)",
+            "ABI/INFORM Global (Alumni Edition)",
+            "Entrepreneurship Database (Alumni Edition)",
+            "ProQuest Pharma Collection",
+            "International Bibliography of the Social Sciences (IBSS)",
+            "ProQuest Central (Alumni) (purchase pre-March 2016)",
+            "ABI/INFORM Collection (Alumni Edition)",
+            "ProQuest Central (Alumni)",
+            "ProQuest Central UK/Ireland",
+            "ProQuest Central",
+            "Business Premium Collection",
+            "ProQuest One Community College",
+            "ProQuest Central Korea",
+            "International Bibliography of the Social Sciences",
+            "Business Premium Collection (Alumni)",
+            "ABI/INFORM Global (Corporate)",
+            "International Bibliography of the Social Sciences",
+            "ProQuest Business Collection (Alumni Edition)",
+            "ProQuest Business Collection",
+            "ABI/INFORM Professional Advanced",
+            "ABI/INFORM Professional Standard",
+            "ABI/INFORM Global",
+            "ProQuest Central Premium",
+            "ProQuest One Academic (New)",
+            "ProQuest One Academic Middle East (New)",
+            "ProQuest One Business",
+            "ProQuest One Business (Alumni)",
+            "ProQuest One Academic Eastern Edition (DO NOT USE)",
+            "ProQuest One Academic (retired)",
+            "ProQuest One Academic UKI Edition",
+            "ProQuest Central Basic"
+          ],
+          "toplevel": [
+            "peer_reviewed",
+            "online_resources"
+          ],
+          "frbrgroupid": [
+            "cdi_FETCH-LOGICAL-c505t-a77a62842b8bbe7541a340269cc94a940c9173a92484da63c4ca1919299dc93c3"
+          ],
+          "frbrtype": [
+            "5"
+          ],
+          "jtitle": [
+            "Small business economics"
+          ]
+        },
+        "sort": {
+          "creationdate": [
+            "20150601"
+          ],
+          "title": [
+            "Entrepreneurship, innovation and regional growth: a network theory"
+          ],
+          "author": [
+            "Huggins, Robert ; Thompson, Piers"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "43553080"
+          ],
+          "originalsourceid": [
+            "FETCH-LOGICAL-c505t-a77a62842b8bbe7541a340269cc94a940c9173a92484da63c4ca1919299dc93c3"
+          ],
+          "sourcetype": [
+            "Aggregation Database"
+          ],
+          "sourceformat": [
+            "XML"
+          ],
+          "sourcesystem": [
+            "Other"
+          ],
+          "pqid": [
+            "1668323162"
+          ],
+          "jstorid": [
+            "43553080"
+          ],
+          "iscdi": [
+            "true"
+          ],
+          "recordtype": [
+            "article"
+          ],
+          "sourceid": [
+            "jstor_cross"
+          ],
+          "recordid": [
+            "cdi_jstor_primary_43553080"
+          ],
+          "addsrcrecordid": [
+            "eNp9kMtKAzEUhoMoWKsP4EIYcOPC0Zwkk4s7FW9QcKPgLqRpbKdOk5qkFt_eGUdEXHR1zuL7zuVH6BDwGWAszhMASFFiqErFGS3pFhpAJWiJFdBtNMCKQCmVfNlFeynNMe4sPEBXNz5Ht4zOu1VMs3p5WtTehw-T6-AL4ydFdNO2NU0xjWGdZxeFKbzL6xDfijxzIX7uo51X0yR38FOH6Pn25un6vhw93j1cX45KW-Eql0YIw4lkZCzHYycqBoYyTLiyVjGjGLYKBDWKMMkmhlPLrAEFiig1sYpaOkQn_dxlDO8rl7Je1Mm6pjHehVXSwAXHkleCtOjxP3QeVrF9oqO4pIQC7yjRUzaGlKJ71bbO34_naOpGA9ZdSrrPVrfZ6i5bTVsT_pnLWC9M_NzokN5JLeunLv65aYN01EvzlEP83cJoVVEsMf0CedCUIw"
+          ],
+          "score": [
+            0.05329434400000001
+          ]
+        }
+      },
+      "delivery": {
+        "link": [],
+        "deliveryCategory": [
+          "Remote Search Resource"
+        ],
+        "availability": [
+          "fulltext"
+        ],
+        "displayLocation": false,
+        "additionalLocations": false,
+        "physicalItemTextCodes": "",
+        "feDisplayOtherLocations": false,
+        "displayedAvailability": "true",
+        "holding": [],
+        "almaOpenurl": "https://ap02.alma.exlibrisgroup.com/view/uresolver/61UWA_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2026-04-03 20:15:08&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-jstor_cross&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Entrepreneurship%2C+innovation+and+regional+growth%3A+a+network+theory&rft.jtitle=Small+business+economics&rft.au=Huggins%2C+Robert&rft.date=2015-06-01&rft.volume=45&rft.issue=1&rft.spage=103&rft.epage=128&rft.pages=103-128&rft.issn=0921-898X&rft.eissn=1573-0913&rft_id=info:doi/10.1007%2Fs11187-015-9643-3&rft.pub=Springer&rft.place=Boston&rft.stitle=Small+Bus+Econ&rft_dat=<jstor_cross>43553080</jstor_cross>&svc_dat=viewit&rft_pqid=1668323162&rft_jstor_id=43553080"
+      },
+      "context": "PC",
+      "adaptor": "Primo Central",
+      "extras": {
+        "citationTrails": {
+          "citing": [
+            "FETCH-LOGICAL-c505t-a77a62842b8bbe7541a340269cc94a940c9173a92484da63c4ca1919299dc93c3"
+          ],
+          "citedby": [
+            "FETCH-LOGICAL-c505t-a77a62842b8bbe7541a340269cc94a940c9173a92484da63c4ca1919299dc93c3"
+          ]
+        },
+        "timesCited": {}
+      },
+      "@id": "https://ap02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_jstor_primary_43553080"
+    },
+    {
+      "pnx": {
+        "links": {
+          "openurlfulltext": [
+            "$$Topenurlfull_article"
+          ],
+          "openurl": [
+            "$$Topenurl_article"
+          ],
+          "thumbnail": [
+            "$$Tsyndetics_thumb_exl"
+          ],
+          "linktopdf": [
+            "$$Uhttps://www.proquest.com/docview/2001317569/fulltextPDF?pq-origsite=primo&accountid=14681$$EPDF$$P50$$Gproquest$$H$Pomit_proxy_true"
+          ],
+          "linktohtml": [
+            "$$Uhttps://www.proquest.com/docview/2001317569?pq-origsite=primo&accountid=14681$$EHTML$$P50$$Gproquest$$H$Pomit_proxy_true"
+          ],
+          "docinsights": [
+            "$$Uhttps://go.openathens.net/redirector/uwa.edu.au?url=https%3A%2F%2Fwww.proquest.com%2Fdocview%2F2001317569%2FfulltextPDF%3Fpq-origsite%3Dprimo%26accountid%3D14681%26RAO%3Dtrue$$EPDF$$P50$$Gproquest$$H$Pomit_proxy_true"
+          ]
+        },
+        "search": {
+          "rsrctype": [
+            "article"
+          ],
+          "description": [
+            "This article reviews and critically examines 77 journal articles published from 2005 to 2016 on the fuzzy-set qualitative comparative analysis (fsQCA) applied in business and management research on the fields of entrepreneurship and innovation research. The findings reveal that the number of fsQCA applications has sharply increased during the past few years. Stemming from the systematic literature review, core aspects dealing with firm performance and innovation are identified. Ultimately, we provide promising areas with future potential for the application of fsQCA such as the elaboration of the antecedents leading to business model innovation."
+          ],
+          "creationdate": [
+            "2018"
+          ],
+          "creatorcontrib": [
+            "Kraus, Sascha",
+            "Ribeiro-Soriano, Domingo",
+            "SchÃ¼ssler, Miriam"
+          ],
+          "orcidid": [
+            "https://orcid.org/0000-0003-3222-9101"
+          ],
+          "creator": [
+            "Kraus, Sascha",
+            "Ribeiro-Soriano, Domingo",
+            "SchÃ¼ssler, Miriam"
+          ],
+          "title": [
+            "Fuzzy-set qualitative comparative analysis (fsQCA) in entrepreneurship and innovation research â€“ the rise of a method",
+            "International entrepreneurship and management journal"
+          ],
+          "subject": [
+            "Entrepreneurship",
+            "Fuzzy sets",
+            "Management"
+          ],
+          "issn": [
+            "1554-7191",
+            "1555-1938"
+          ],
+          "fulltext": [
+            "true"
+          ],
+          "addtitle": [
+            "Int Entrep Manag J"
+          ],
+          "general": [
+            "Springer US",
+            "Springer Nature B.V"
+          ],
+          "startdate": [
+            "20180301"
+          ],
+          "enddate": [
+            "20180301"
+          ],
+          "recordtype": [
+            "article"
+          ],
+          "sourceid": [
+            "7WY",
+            "BENPR",
+            "M0C"
+          ],
+          "recordid": [
+            "eNp9kM9KAzEQhxdRsFYfwFvAix6imSb771iKVaEggp5DNp11t2w322S30p58B9_QJzHtCoKgpxmG3zeTfEFwDuwaGItvHACPQsogpkxEQJODYABhGFJIeXK47wWNIYXj4MS5BWM8DtNkELxNu-12Qx22ZNWpqmxVW66RaLNslO17Vatq40pHLnP3NBlfkbImWLcWG4s1dtYVZeNDcz-vzdozpiYWHSqrC_L5_kHaAoktHRKTE0WW2BZmfhoc5apyePZdh8HL9PZ5ck9nj3cPk_GMap5AS1OdccUjLcIsgzTTQvEsYQmEc18QR3MR61yAEIB-qlKl80gkIuVeCo5yzofBRb-3sWbVoWvlwnTW_8jJEWPAIQ6j1KegT2lrnLOYy8aWS2U3Epjc-ZW9X-n9yp1fmXgm_sXovT3j1aiy-pcc9aTzV-pXtD9v-hv6AtXPkWM"
+          ],
+          "scope": [
+            "AAYXX",
+            "CITATION",
+            "3V.",
+            "7WY",
+            "7WZ",
+            "7X5",
+            "7XB",
+            "87Z",
+            "8A3",
+            "8FK",
+            "8FL",
+            "ABUWG",
+            "AFKRA",
+            "BENPR",
+            "BEZIV",
+            "CCPQU",
+            "DWQXO",
+            "FRNLG",
+            "F~G",
+            "K60",
+            "K6~",
+            "K8~",
+            "L.-",
+            "M0C",
+            "PHGZM",
+            "PHGZT",
+            "PKEHL",
+            "PQBIZ",
+            "PQBZA",
+            "PQEST",
+            "PQQKQ",
+            "PQUKI",
+            "Q9U"
+          ]
+        },
+        "delivery": {
+          "fulltext": [
+            "fulltext"
+          ],
+          "delcategory": [
+            "Remote Search Resource"
+          ]
+        },
+        "display": {
+          "description": [
+            "This article reviews and critically examines 77 journal articles published from 2005 to 2016 on the fuzzy-set qualitative comparative analysis (fsQCA) applied in business and management research on the fields of entrepreneurship and innovation research. The findings reveal that the number of fsQCA applications has sharply increased during the past few years. Stemming from the systematic literature review, core aspects dealing with firm performance and innovation are identified. Ultimately, we provide promising areas with future potential for the application of fsQCA such as the elaboration of the antecedents leading to business model innovation."
+          ],
+          "language": [
+            "eng"
+          ],
+          "creator": [
+            "Kraus, Sascha ; Ribeiro-Soriano, Domingo ; SchÃ¼ssler, Miriam"
+          ],
+          "title": [
+            "Fuzzy-set qualitative comparative analysis (fsQCA) in entrepreneurship and innovation research â€“ the rise of a method"
+          ],
+          "type": [
+            "article"
+          ],
+          "source": [
+            "ABI/INFORM Collection",
+            "ABI/INFORM Global",
+            "Springer Nature Link",
+            "ProQuest Central"
+          ],
+          "publisher": [
+            "New York: Springer US"
+          ],
+          "ispartof": [
+            "International entrepreneurship and management journal, 2018-03, Vol.14 (1), p.15-33"
+          ],
+          "identifier": [
+            "ISSN: 1554-7191",
+            "EISSN: 1555-1938",
+            "DOI: 10.1007/s11365-017-0461-8"
+          ],
+          "rights": [
+            "Springer Science+Business Media, LLC 2017",
+            "International Entrepreneurship and Management Journal is a copyright of Springer, (2017). All Rights Reserved."
+          ],
+          "snippet": [
+            "...) applied in business and management research on the fields of entrepreneurship and innovation research..."
+          ],
+          "lds50": [
+            "peer_reviewed"
+          ],
+          "subject": [
+            "Entrepreneurship ;  Fuzzy sets ;  Management"
+          ],
+          "keyword": [
+            "Article ;  Business and Management ;  Business models ;  Comparative analysis ;  Emerging Markets/Globalization ;  Innovations"
+          ]
+        },
+        "addata": {
+          "format": [
+            "journal"
+          ],
+          "pub": [
+            "Springer US"
+          ],
+          "jtitle": [
+            "International entrepreneurship and management journal"
+          ],
+          "genre": [
+            "article"
+          ],
+          "orcidid": [
+            "https://orcid.org/0000-0003-3222-9101"
+          ],
+          "issn": [
+            "1554-7191"
+          ],
+          "abstract": [
+            "This article reviews and critically examines 77 journal articles published from 2005 to 2016 on the fuzzy-set qualitative comparative analysis (fsQCA) applied in business and management research on the fields of entrepreneurship and innovation research. The findings reveal that the number of fsQCA applications has sharply increased during the past few years. Stemming from the systematic literature review, core aspects dealing with firm performance and innovation are identified. Ultimately, we provide promising areas with future potential for the application of fsQCA such as the elaboration of the antecedents leading to business model innovation."
+          ],
+          "au": [
+            "Kraus, Sascha",
+            "Ribeiro-Soriano, Domingo",
+            "SchÃ¼ssler, Miriam"
+          ],
+          "atitle": [
+            "Fuzzy-set qualitative comparative analysis (fsQCA) in entrepreneurship and innovation research â€“ the rise of a method"
+          ],
+          "stitle": [
+            "Int Entrep Manag J"
+          ],
+          "date": [
+            "2018-03-01"
+          ],
+          "risdate": [
+            "2018"
+          ],
+          "volume": [
+            "14"
+          ],
+          "issue": [
+            "1"
+          ],
+          "spage": [
+            "15"
+          ],
+          "epage": [
+            "33"
+          ],
+          "pages": [
+            "15-33"
+          ],
+          "eissn": [
+            "1555-1938"
+          ],
+          "ristype": [
+            "JOUR"
+          ],
+          "cop": [
+            "New York"
+          ],
+          "doi": [
+            "10.1007/s11365-017-0461-8"
+          ],
+          "tpages": [
+            "19"
+          ]
+        },
+        "facets": {
+          "rsrctype": [
+            "articles"
+          ],
+          "language": [
+            "eng"
+          ],
+          "creationdate": [
+            "2018"
+          ],
+          "creatorcontrib": [
+            "Kraus, Sascha",
+            "Ribeiro-Soriano, Domingo",
+            "SchÃ¼ssler, Miriam"
+          ],
+          "topic": [
+            "Entrepreneurship",
+            "Fuzzy sets",
+            "Management"
+          ],
+          "prefilter": [
+            "articles"
+          ],
+          "collection": [
+            "CrossRef",
+            "ProQuest Central (Corporate)",
+            "ABI/INFORM Collection",
+            "ABI/INFORM Global (PDF only)",
+            "Entrepreneurship Database",
+            "ProQuest Central (purchase pre-March 2016)",
+            "ABI/INFORM Global (Alumni Edition)",
+            "Entrepreneurship Database (Alumni Edition)",
+            "ProQuest Central (Alumni) (purchase pre-March 2016)",
+            "ABI/INFORM Collection (Alumni Edition)",
+            "ProQuest Central (Alumni)",
+            "ProQuest Central UK/Ireland",
+            "ProQuest Central",
+            "Business Premium Collection",
+            "ProQuest One Community College",
+            "ProQuest Central Korea",
+            "Business Premium Collection (Alumni)",
+            "ABI/INFORM Global (Corporate)",
+            "ProQuest Business Collection (Alumni Edition)",
+            "ProQuest Business Collection",
+            "DELNET Management Collection",
+            "ABI/INFORM Professional Advanced",
+            "ABI/INFORM Global",
+            "ProQuest Central Premium",
+            "ProQuest One Academic (New)",
+            "ProQuest One Academic Middle East (New)",
+            "ProQuest One Business",
+            "ProQuest One Business (Alumni)",
+            "ProQuest One Academic Eastern Edition (DO NOT USE)",
+            "ProQuest One Academic (retired)",
+            "ProQuest One Academic UKI Edition",
+            "ProQuest Central Basic"
+          ],
+          "toplevel": [
+            "peer_reviewed",
+            "online_resources"
+          ],
+          "frbrgroupid": [
+            "cdi_FETCH-LOGICAL-c381t-9cb3a36c45bb19bc4a3b80815db80ee2d47cf41441e081a9acf648493100e2f33"
+          ],
+          "frbrtype": [
+            "5"
+          ],
+          "jtitle": [
+            "International entrepreneurship and management journal"
+          ]
+        },
+        "sort": {
+          "creationdate": [
+            "20180301"
+          ],
+          "title": [
+            "Fuzzy-set qualitative comparative analysis (fsQCA) in entrepreneurship and innovation research â€“ the rise of a method"
+          ],
+          "author": [
+            "Kraus, Sascha ; Ribeiro-Soriano, Domingo ; SchÃ¼ssler, Miriam"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "2001317569"
+          ],
+          "originalsourceid": [
+            "FETCH-LOGICAL-c381t-9cb3a36c45bb19bc4a3b80815db80ee2d47cf41441e081a9acf648493100e2f33"
+          ],
+          "sourcetype": [
+            "Aggregation Database"
+          ],
+          "sourceformat": [
+            "XML"
+          ],
+          "sourcesystem": [
+            "Other"
+          ],
+          "pqid": [
+            "2001317569"
+          ],
+          "iscdi": [
+            "true"
+          ],
+          "recordtype": [
+            "article"
+          ],
+          "sourceid": [
+            "proquest_cross"
+          ],
+          "recordid": [
+            "cdi_crossref_primary_10_1007_s11365_017_0461_8"
+          ],
+          "addsrcrecordid": [
+            "eNp9kM9KAzEQhxdRsFYfwFvAix6imSb771iKVaEggp5DNp11t2w322S30p58B9_QJzHtCoKgpxmG3zeTfEFwDuwaGItvHACPQsogpkxEQJODYABhGFJIeXK47wWNIYXj4MS5BWM8DtNkELxNu-12Qx22ZNWpqmxVW66RaLNslO17Vatq40pHLnP3NBlfkbImWLcWG4s1dtYVZeNDcz-vzdozpiYWHSqrC_L5_kHaAoktHRKTE0WW2BZmfhoc5apyePZdh8HL9PZ5ck9nj3cPk_GMap5AS1OdccUjLcIsgzTTQvEsYQmEc18QR3MR61yAEIB-qlKl80gkIuVeCo5yzofBRb-3sWbVoWvlwnTW_8jJEWPAIQ6j1KegT2lrnLOYy8aWS2U3Epjc-ZW9X-n9yp1fmXgm_sXovT3j1aiy-pcc9aTzV-pXtD9v-hv6AtXPkWM"
+          ],
+          "score": [
+            0.053149096
+          ]
+        }
+      },
+      "delivery": {
+        "link": [],
+        "deliveryCategory": [
+          "Remote Search Resource"
+        ],
+        "availability": [
+          "fulltext"
+        ],
+        "displayLocation": false,
+        "additionalLocations": false,
+        "physicalItemTextCodes": "",
+        "feDisplayOtherLocations": false,
+        "displayedAvailability": "true",
+        "holding": [],
+        "almaOpenurl": "https://ap02.alma.exlibrisgroup.com/view/uresolver/61UWA_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2026-04-03 20:15:08&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-proquest_cross&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Fuzzy-set+qualitative+comparative+analysis+%28fsQCA%29+in+entrepreneurship+and+innovation+research+%E2%80%93+the+rise+of+a+method&rft.jtitle=International+entrepreneurship+and+management+journal&rft.au=Kraus%2C+Sascha&rft.date=2018-03-01&rft.volume=14&rft.issue=1&rft.spage=15&rft.epage=33&rft.pages=15-33&rft.issn=1554-7191&rft.eissn=1555-1938&rft_id=info:doi/10.1007%2Fs11365-017-0461-8&rft.pub=Springer+US&rft.place=New+York&rft.stitle=Int+Entrep+Manag+J&rft_dat=<proquest_cross>2001317569</proquest_cross>&svc_dat=viewit&rft_pqid=2001317569"
+      },
+      "context": "PC",
+      "adaptor": "Primo Central",
+      "extras": {
+        "citationTrails": {
+          "citing": [
+            "FETCH-LOGICAL-c381t-9cb3a36c45bb19bc4a3b80815db80ee2d47cf41441e081a9acf648493100e2f33"
+          ],
+          "citedby": [
+            "FETCH-LOGICAL-c381t-9cb3a36c45bb19bc4a3b80815db80ee2d47cf41441e081a9acf648493100e2f33"
+          ]
+        },
+        "timesCited": {}
+      },
+      "@id": "https://ap02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_crossref_primary_10_1007_s11365_017_0461_8"
+    }
+  ],
+  "timelog": {
+    "PC_SEARCH_CALL_TIME": "310",
+    "PC_BUILD_JSON_AND_HIGLIGHTS": "21",
+    "PC_SEARCH_TIME_TOTAL": "331",
+    "CALL_SOLR_GET_IDS_LIST": "64",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "0",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "169",
+    "BUILD_BLEND_AND_CACHE_RESULTS": 0,
+    "BUILD_COMBINED_RESULTS_MAP": 332,
+    "COMBINED_SEARCH_TIME": 348,
+    "PROCESS_COMBINED_RESULTS": 0,
+    "FEATURED_SEARCH_TIME": 0
+  }
+}

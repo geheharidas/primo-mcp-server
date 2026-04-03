@@ -1,0 +1,28 @@
+{
+  "beaconO22": "869",
+  "info": {
+    "totalResultsLocal": 0,
+    "totalResultsPC": 0,
+    "total": 0,
+    "first": 1,
+    "last": 0
+  },
+  "highlights": {
+    "termsUnion": []
+  },
+  "docs": [],
+  "timelog": {
+    "PC_SEARCH_CALL_TIME": "322",
+    "PC_BUILD_JSON_AND_HIGLIGHTS": "3",
+    "PC_SEARCH_TIME_TOTAL": "325",
+    "CALL_SOLR_GET_IDS_LIST": "27",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "0",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "136",
+    "BUILD_BLEND_AND_CACHE_RESULTS": 0,
+    "BUILD_COMBINED_RESULTS_MAP": 325,
+    "COMBINED_SEARCH_TIME": 854,
+    "PROCESS_COMBINED_RESULTS": 0,
+    "FEATURED_SEARCH_TIME": 0
+  },
+  "expandedSearchAfterZeroResults": true
+}
